@@ -12,6 +12,10 @@
     }
 }
 
+.term__table {
+    margin-bottom: 20px;
+}
+
 .term__button {
-    padding: 25px;
+    margin-bottom: 50px;
 }
